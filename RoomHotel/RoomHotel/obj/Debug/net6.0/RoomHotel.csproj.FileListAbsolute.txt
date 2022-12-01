@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Enum, Exception\RoomHotel\RoomHotel\bin\Debug\net6.0\RoomHotel.exe
+C:\Users\HP\Desktop\Enum, Exception\RoomHotel\RoomHotel\bin\Debug\net6.0\RoomHotel.deps.json
+C:\Users\HP\Desktop\Enum, Exception\RoomHotel\RoomHotel\bin\Debug\net6.0\RoomHotel.runtimeconfig.json
+C:\Users\HP\Desktop\Enum, Exception\RoomHotel\RoomHotel\bin\Debug\net6.0\RoomHotel.dll
+C:\Users\HP\Desktop\Enum, Exception\RoomHotel\RoomHotel\bin\Debug\net6.0\RoomHotel.pdb
+C:\Users\HP\Desktop\Enum, Exception\RoomHotel\RoomHotel\obj\Debug\net6.0\RoomHotel.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Enum, Exception\RoomHotel\RoomHotel\obj\Debug\net6.0\RoomHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Enum, Exception\RoomHotel\RoomHotel\obj\Debug\net6.0\RoomHotel.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Enum, Exception\RoomHotel\RoomHotel\obj\Debug\net6.0\RoomHotel.AssemblyInfo.cs
+C:\Users\HP\Desktop\Enum, Exception\RoomHotel\RoomHotel\obj\Debug\net6.0\RoomHotel.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Enum, Exception\RoomHotel\RoomHotel\obj\Debug\net6.0\RoomHotel.dll
+C:\Users\HP\Desktop\Enum, Exception\RoomHotel\RoomHotel\obj\Debug\net6.0\refint\RoomHotel.dll
+C:\Users\HP\Desktop\Enum, Exception\RoomHotel\RoomHotel\obj\Debug\net6.0\RoomHotel.pdb
+C:\Users\HP\Desktop\Enum, Exception\RoomHotel\RoomHotel\obj\Debug\net6.0\RoomHotel.genruntimeconfig.cache
+C:\Users\HP\Desktop\Enum, Exception\RoomHotel\RoomHotel\obj\Debug\net6.0\ref\RoomHotel.dll
